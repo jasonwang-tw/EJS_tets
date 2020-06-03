@@ -33,6 +33,10 @@ Gulp主要有四個指令，用這些指令就可以完成大部份工作。
 3. gulp.src(glob) 檔案來源
 4. gulp.dest(folder) 檔案的存檔路徑
 
+
+* gulp.watch(folder) 自動監聽
+* .pipe 編譯
+
 [參考教學](https://wcc723.github.io/gulp/2014/09/24/gulp-task/)
 
 
