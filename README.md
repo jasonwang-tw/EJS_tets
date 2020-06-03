@@ -47,6 +47,8 @@ Gulp 4 介紹了新的組合任務方法：series()、parallel()
 1. series() 按指定的順序一次運行一個任務
 2. parallel() 以任何順序同時運行任務
 
+#### [將輸出的ejs更改成html](https://hsiangfeng.github.io/gulp/20190613/2073498620/)
+
 ## SCSS
 [參考教學](https://wcc723.github.io/css/2016/12/10/gulp-init/)
 
